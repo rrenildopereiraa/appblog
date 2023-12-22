@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Hello World!",
+      "body": "Hello World!",
+      "author": "Renildo Pereira",
+      "id": 1
+    }
+  ]
+}
