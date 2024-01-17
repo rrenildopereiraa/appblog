@@ -1,7 +1,7 @@
 # Getting Started with Appblog
 
 <p align="center">
-  This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a> and <a href="https://skyluxmc.vercel.app/">Yumma CSS</a>.
+  This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a> and <a href="https://yummacss.vercel.app/">Yumma CSS</a>.
 </p>
 
 ## Basic Features
